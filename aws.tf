@@ -8,4 +8,5 @@ resource "aws_instance" "debabrata-instance" {       # Resource Name
     tags = {
       "Name" = "debabrata"
     }
+    
 }
